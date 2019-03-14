@@ -15,4 +15,6 @@ Types of implicit feedback include purchase history, browsing history, search pa
 
 3. The numerical value of explicit feedback indicates preference, whereas the numerical value of implicit feedback indicates confidence. 
 
+## ALS on decomposed item/user matrix
+
 

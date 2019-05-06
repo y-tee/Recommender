@@ -1,6 +1,6 @@
 
 ## evaluating implicit recommender 
-### microsoft paper on methods of evaluation of recommender 
+### Microsoft paper on methods of evaluation of recommender 
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EvaluationMetrics.TR_.pdf \
 
 https://stackoverflow.com/questions/46462470/how-can-i-evaluate-the-implicit-feedback-als-algorithm-for-recommendations-in-ap/46490352#46490352

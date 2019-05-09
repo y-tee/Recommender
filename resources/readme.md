@@ -12,7 +12,7 @@ https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe
 https://www.youtube.com/watch?v=58OjaDH2FI0 
 
 ###### SVD implicit in spark production
-https://medium.com/criteo-labs/sparkrsvd-open-sourced-by-criteo-for-large-scale-recommendation-engines-6695b649f519
+https://medium.com/criteo-labs/sparkrsvd-open-sourced-by-criteo-for-large-scale-recommendation-engines-6695b649f519 \
 https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1
 
 ###### pyspark jupyter in EMR cluster
